@@ -1,0 +1,10 @@
+G:\dewan\Restaurant\bin\Debug\Restaurant.exe.config
+G:\dewan\Restaurant\bin\Debug\Restaurant.exe
+G:\dewan\Restaurant\bin\Debug\Restaurant.pdb
+G:\dewan\Restaurant\obj\Debug\Restaurant.Form1.resources
+G:\dewan\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+G:\dewan\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+G:\dewan\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+G:\dewan\Restaurant\obj\Debug\Restaurant.exe
+G:\dewan\Restaurant\obj\Debug\Restaurant.pdb
+G:\dewan\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
